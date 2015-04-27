@@ -1,0 +1,10 @@
+new
+cout
+push_front 8
+push_back 7
+push_back 3
+cout
+pop_front 8
+cout
+count 7 0
+details 
